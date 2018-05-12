@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/ca7686bf024bd7cad0814e04a23784ef83c1d407/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/color-v23/abc_tint_spinner.xml"
+    }
+]

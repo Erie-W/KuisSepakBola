@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c32808556a24f81e52451c816cae9f60e1b5f509/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eriewicaksono/.android/build-cache/b41cea2a6c5cd40137556485fee0c853777d9da3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9bdf1ef44a2fa3f8892415bd1fd5187de88b5a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="369059887b9ef0197e85c1c87f2730ea407f1a4e">
+        <dex dex="/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0a61c8eb6ab0e2d101b8c0581d3cb0b9ba37d2f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eriewicaksono/.android/build-cache/ca7686bf024bd7cad0814e04a23784ef83c1d407/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab7bf61d3e196cfae00a3f5de5e69bf26f05578d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eriewicaksono/.android/build-cache/4e766172ec281835ecff7efb5381a2f4deb59e79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e02f8591795a2302a48c3b113e26a78b06bba394/classes.dex" />
+    </item>
+
+</items>

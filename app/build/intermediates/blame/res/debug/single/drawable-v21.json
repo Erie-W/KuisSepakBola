@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/ca7686bf024bd7cad0814e04a23784ef83c1d407/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/ca7686bf024bd7cad0814e04a23784ef83c1d407/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/ca7686bf024bd7cad0814e04a23784ef83c1d407/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/ca7686bf024bd7cad0814e04a23784ef83c1d407/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

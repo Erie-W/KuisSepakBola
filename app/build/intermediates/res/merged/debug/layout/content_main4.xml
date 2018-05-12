@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#26A69A"
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:id="@+id/jangkar"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/jangkar"
+        android:layout_centerHorizontal="true"
+        android:textSize="25dp"
+        android:textAlignment="center"
+        android:id="@+id/username"
+        android:textColor="#E0F2F1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/username"
+        android:text="Terima Kasih"
+        android:textColor="#E0F2F1"
+        android:textSize="35sp"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/jangkar"
+        android:text="Sampai Bertemu Kembali"
+        android:textSize="20sp"
+        android:textColor="#E0F2F1"
+        android:layout_centerHorizontal="true"/>
+
+
+</RelativeLayout>

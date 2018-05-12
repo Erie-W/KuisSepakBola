@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/eriewicaksono/.android/build-cache/04824990471d055ec7dc86cd69d70676f382ee7c/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

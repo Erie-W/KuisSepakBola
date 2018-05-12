@@ -1,0 +1,7 @@
+#Fri Aug 04 14:52:51 WIB 2017
+base.0=/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0a61c8eb6ab0e2d101b8c0581d3cb0b9ba37d2f4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c32808556a24f81e52451c816cae9f60e1b5f509/classes.dex
+base.1=/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c32808556a24f81e52451c816cae9f60e1b5f509
+file.0=/Users/eriewicaksono/Downloads/KuisSepakBola/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0a61c8eb6ab0e2d101b8c0581d3cb0b9ba37d2f4/classes.dex
